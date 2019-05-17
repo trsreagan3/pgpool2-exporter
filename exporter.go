@@ -6,7 +6,7 @@ import (
 
 	"fmt"
 
-	"github.com/leominov/pgpool2-exporter/pgpool2"
+	"github.com/trsreagan3/pgpool2-exporter/pgpool2"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/common/version"
 	"github.com/sirupsen/logrus"
